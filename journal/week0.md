@@ -1,3 +1,13 @@
 # Week 0 — Billing and Architecture!
 
+# Lucidchart Diagram
 [Screenshot 2023-02-14 at 16 17 39](https://user-images.githubusercontent.com/124910763/218795679-95351424-3ad4-4566-aa7f-ba87a117a34a.png)
+
+# CloudWatch Alarm Config Json File
+![Screenshot 2023-02-14 at 16 21 17](https://user-images.githubusercontent.com/124910763/218797469-e89052ff-02b5-4713-bdb7-22082cdf3b5a.png)
+
+# Budget Alarm Config Json File
+![Screenshot 2023-02-14 at 16 24 45](https://user-images.githubusercontent.com/124910763/218797741-5def7dd5-1e2e-4c55-879a-518d89a50525.png)
+
+# Sns Subcription Json File
+![Screenshot 2023-02-14 at 16 24 58](https://user-images.githubusercontent.com/124910763/218797985-4126e273-5e42-46b3-94b3-d2ee95161293.png)
