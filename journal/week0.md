@@ -11,6 +11,7 @@ The purpose of this diagram is show case a pipeline in where we as the developer
 
 # Budget Alarm 
 
-Created an aws budget alarm 
+Created an aws budget alarm $30
+
 ![Screenshot 2023-02-16 at 18 26 29](https://user-images.githubusercontent.com/124910763/219455109-503a1bf2-1b66-481a-8555-4f85bfccf86b.png)
 
