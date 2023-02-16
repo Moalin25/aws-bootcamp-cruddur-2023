@@ -9,11 +9,6 @@ The purpose of this diagram is show case a pipeline in where we as the developer
 # Conceptual Diagram
 ![Screenshot 2023-02-14 at 16 56 33](https://user-images.githubusercontent.com/124910763/218805289-2eeb8706-8dc9-49a8-a080-e683d5b7e4d8.png)
 
-# CloudWatch Alarm Config Json File
-![Screenshot 2023-02-14 at 16 21 17](https://user-images.githubusercontent.com/124910763/218797469-e89052ff-02b5-4713-bdb7-22082cdf3b5a.png)
-
 # Budget Alarm Config Json File
-![Screenshot 2023-02-14 at 16 24 45](https://user-images.githubusercontent.com/124910763/218797741-5def7dd5-1e2e-4c55-879a-518d89a50525.png)
+![Screenshot 2023-02-16 at 18 26 29](https://user-images.githubusercontent.com/124910763/219455109-503a1bf2-1b66-481a-8555-4f85bfccf86b.png)
 
-# Sns Subcription Json File
-![Screenshot 2023-02-14 at 16 24 58](https://user-images.githubusercontent.com/124910763/218797985-4126e273-5e42-46b3-94b3-d2ee95161293.png)
