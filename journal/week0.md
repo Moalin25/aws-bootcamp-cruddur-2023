@@ -15,3 +15,7 @@ Created an aws budget alarm $30
 
 ![Screenshot 2023-02-16 at 18 26 29](https://user-images.githubusercontent.com/124910763/219455109-503a1bf2-1b66-481a-8555-4f85bfccf86b.png)
 
+# CloudWatch Alarm
+
+Created a Cloud Watch Billing Alarm using SNS to forward in state alarm.
+![Screenshot 2023-02-17 at 10 42 03](https://user-images.githubusercontent.com/124910763/219622887-ffeadbdc-2a51-4599-9596-c818d7d9b7cf.png)
