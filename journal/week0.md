@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture!
 
-# Locgical Diagram
+# Logical Diagram
 
 The purpose of this diagram is show case a pipeline in where we as the developers create a dockerfile and push it into our repo. The pipeline will be triggered on a push to main. Codebuild will pick up the newly commited dockerfile and use the build spec file to produce a docker imagie. Then Codedeploy will use the built docker imagie to deploy the application on an ec2 which will be managed by ECS. Users will be able to acces our application visa DNS where traffic will be routed to the Application Load Balancer and on to the Instances.
 
