@@ -1,7 +1,7 @@
 # Week 1 — App Containerization
 
 # Installed Docker on EC2 and ran a container in detatached mode to sleep for 3000s
-![Screenshot 2023-02-18 at 20 08 41](https://user-images.githubusercontent.com/124910763/219897596-f8c91c40-6e2c-4af6-8b7a-c8d899a59136.png)
+![Screenshot 2023-02-18 at 19 42 27](https://user-images.githubusercontent.com/124910763/219899170-3a3cbdc4-ed8f-4a6e-9633-ba317b46a30c.png)
 
 
 # Tagged and Pushed Docker to Dockerhub
