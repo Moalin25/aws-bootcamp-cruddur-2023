@@ -9,8 +9,5 @@ COPY . .
 
 ENV FLASK_ENV=development
 
-COPY myscript.sh /backend-flask/myscript.sh
-RUN chmod +x /backend-flak/myscript.sh
-
 EXPOSE ${PORT}
-CMD ["/backend-flask/myscript.sh"]
+CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=4567"]
